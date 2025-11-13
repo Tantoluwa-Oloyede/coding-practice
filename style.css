@@ -1,0 +1,9 @@
+html {
+                font-size: 30px
+                font; text-overflow: ellipsis;
+            }
+            body {
+                background: linear-gradient(#000202 35%, rgb(19, 100, 73));
+                color: rgb(222, 221, 221);
+                
+            }
